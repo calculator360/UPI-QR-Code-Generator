@@ -353,7 +353,6 @@ a.changelog_link_last.w-inline-block .change_main-copy {
     color: #006aff;
 }
 
-</style><style>
 
 #banner.upi .tool_box {
     display: flex;
