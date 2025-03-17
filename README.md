@@ -998,18 +998,16 @@ a.changelog_link_last.w-inline-block .change_main-copy {
  <p>The <strong>UPI QR Code Generator</strong> allows you to create quick and secure UPI QR codes for seamless digital payments. Ideal for businesses, freelancers, and individuals, this tool makes transactions easier and faster.</p>
 
 <h2>Why Use a UPI QR Code Generator?</h2>
-    <p>UPI QR codes simplify payments by allowing users to scan and pay instantly.</p>
-    <p><strong>1. Instant Payment Processing:</strong> No need to manually enter UPI details.</p>
-    <p><strong>2. Secure Transactions:</strong> Reduces the risk of entering incorrect details.</p>
-    <p><strong>3. Useful for Businesses & Individuals:</strong> Ideal for shops, freelancers, and service providers.</p>
-    <p><strong>4. Free & Easy to Use:</strong> Generate UPI QR codes instantly without any cost.</p>
-
+<p>UPI QR codes simplify payments by allowing users to scan and pay instantly.</p>
+<p><strong>1. Instant Payment Processing:</strong> No need to manually enter UPI details.</p>
+<p><strong>2. Secure Transactions:</strong> Reduces the risk of entering incorrect details.</p>
+<p><strong>3. Useful for Businesses & Individuals:</strong> Ideal for shops, freelancers, and service providers.</p>
+<p><strong>4. Free & Easy to Use:</strong> Generate UPI QR codes instantly without any cost.</p>
 <h2>How to Use the UPI QR Code Generator?</h2>
-    <p><strong>Step 1:</strong> Enter your UPI ID or payment details.</p>
-    <p><strong>Step 2:</strong> Specify the amount (optional).</p>
-    <p><strong>Step 3:</strong> Click the "Generate QR Code" button.</p>
-    <p><strong>Step 4:</strong> Download or share the QR code for quick payments.</p>
-
+ <p><strong>Step 1:</strong> Enter your UPI ID or payment details.</p>
+ <p><strong>Step 2:</strong> Specify the amount (optional).</p>
+<p><strong>Step 3:</strong> Click the "Generate QR Code" button.</p>
+ <p><strong>Step 4:</strong> Download or share the QR code for quick payments.</p>
 <h2>Conclusion</h2>
-    <p>The <strong>UPI QR Code Generator</strong> is a fast and secure way to create payment QR codes for easy transactions. Whether you are a business owner or an individual, this tool simplifies the payment process.</p>
+<p>The <strong>UPI QR Code Generator</strong> is a fast and secure way to create payment QR codes for easy transactions. Whether you are a business owner or an individual, this tool simplifies the payment process.</p>
 
