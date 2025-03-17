@@ -766,6 +766,8 @@ a.changelog_link_last.w-inline-block .change_main-copy {
     </style>
 </head>
 <body>
+	<body oncontextmenu="return false;">
+
     <section id="banner" class="upi">
         <div class="tool_box">
             <div class="field_details">
