@@ -994,7 +994,7 @@ a.changelog_link_last.w-inline-block .change_main-copy {
         }
     </script>
 </body>
-</html>
+
 
 <BR>
  <p>The <strong>UPI QR Code Generator</strong> allows you to create quick and secure UPI QR codes for seamless digital payments. Ideal for businesses, freelancers, and individuals, this tool makes transactions easier and faster.</p>
