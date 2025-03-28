@@ -995,11 +995,12 @@ a.changelog_link_last.w-inline-block .change_main-copy {
     </script>
 </body>
 
+
+<BR>
 <div class="footer">
     <p>&copy; <script>document.write(new Date().getFullYear())</script> Mini web Tool. All Rights Reserved. | 
     Powered by <a href="https://www.miniwebtool.live/" target="_blank">MiniWebTool</a></p>
 </div>
-<BR>
  <p>The <strong>UPI QR Code Generator</strong> allows you to create quick and secure UPI QR codes for seamless digital payments. Ideal for businesses, freelancers, and individuals, this tool makes transactions easier and faster.</p>
 
 <h2>Why Use a UPI QR Code Generator?</h2>
